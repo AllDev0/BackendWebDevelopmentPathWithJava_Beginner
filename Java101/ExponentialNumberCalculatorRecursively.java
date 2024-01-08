@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ExponentialNumberCalculatorRevursively {
+public class ExponentialNumberCalculatorRecursively {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int base, exponent;
